@@ -57,6 +57,11 @@
 
 **Build → Harden → Instrument → Baseline → Hunt → Detect → Expose → Investigate → Respond**
 
+
+🏗️🛡️ Honeypot Architecture & Security Design 
+
+<img width="900" height="560" alt="sql" src="https://github.com/user-attachments/assets/0c2b9f93-b8af-41eb-ada1-60f52a1b65e3" />
+
 ---
 
 # 🔎 Threat Hunting & Detection Overview
