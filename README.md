@@ -1,4 +1,4 @@
-# 🛡️ Cyber Range Capstone — MySQL Honeypot & Threat Hunting Lab
+# 🛡️ MySQL Honeypot & Threat Hunting Lab
 
 > **An end-to-end cybersecurity lab focused on building, hardening, monitoring, detecting, hunting, investigating, and responding to real-world attacks against an internet-exposed MySQL server.**
 
