@@ -66,7 +66,7 @@
 
 # 🔎 Threat Hunting & Detection Overview
 
-This Cyber Range Capstone simulates the complete defensive lifecycle of an internet-exposed asset from the perspective of a **Security Operations Center (SOC) Analyst, Threat Hunter, and Detection Engineer**.
+This Capstone simulates the complete defensive lifecycle of an internet-exposed asset from the perspective of a **Security Operations Center (SOC) Analyst, Threat Hunter, and Detection Engineer**.
 
 The lab begins by securely configuring and hardening a Windows-based MySQL environment. Comprehensive telemetry is then enabled across the endpoint, database, and security monitoring layers to establish visibility before any malicious activity occurs.
 
